@@ -1,0 +1,45 @@
+/* Estilos CSS - Website da Empresa */
+
+/* Padrões e Reset */
+
+/* Tipografia e Cores */
+
+/* Estrutura */
+    .top-header-main-document {
+        background: orangered;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        box-shadow: 0px 0px 6px 0px black;
+    }
+
+    .menu {
+        font-family: arial, helvetica, sans-serif;
+        font-size: 14px; 
+        list-style:none;
+        border:1px solid #c0c0c0;
+        float:right;
+    }
+
+    .menu li {
+        position:relative;
+        list-style:none;
+        float:right;
+        border-right:1px solid #c0c0c0;
+        display:block;
+        width:150px;
+    }
+
+    body{
+        height: 100%;
+        width: 100%;
+        background-color: lightgray;
+    }
+/* Estilos específicos de Seção */
+
+/* Formulários */
+
+/* Tabelas */
+
+/* Classes de Uso Geral */

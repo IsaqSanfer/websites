@@ -1,0 +1,33 @@
+#title, .subtitle, .post_title {
+    color: #005452;
+}
+
+.post_title {
+    text-align: center;
+    
+    font-size: 16px;
+    font-style: italic;
+
+    background-image: url("C:\Users\isael\OneDrive\Documentos\GitHub\websites\img\bg.png");
+}
+
+.b_ground {
+    background-color: lightgrey;
+}
+
+.post {
+    background-color: #BFDAD7;
+    background-position: top;
+
+    padding-top: 15px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 0; /* 15 sup; 10 dir; 5 inf e 0 dir */
+    
+    border-width: 3px; 
+    border-style: solid; 
+    border-color: #006465;
+    border-radius: 15px;
+    
+    margin: 10px;
+}
